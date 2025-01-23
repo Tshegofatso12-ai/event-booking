@@ -1,6 +1,6 @@
 POST http://localhost:8080/events
 Content-Type: application/json
-Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlc3QyQGdtYWlsLmNvbSIsImV4cCI6MTczNzY3NDg0OCwidXNlcklEIjoyfQ.vQcbnjS0E5IuNpp0b4HA8AMv71gq1zNTPu86gXVM_Ds
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlc3QyQGdtYWlsLmNvbSIsImV4cCI6MTczNzY3NjA0OCwidXNlcklEIjoxfQ.eYRCjp3PN5t946zKadDGyckXtgWVCunTO9kG5GBhpSg
 
 {
     "name": "Wellness event 7",
