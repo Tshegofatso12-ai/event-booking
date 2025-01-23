@@ -1,10 +1,10 @@
 POST http://localhost:8080/events
 Content-Type: application/json
-Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlc3QyQGdtYWlsLmNvbSIsImV4cCI6MTczNzY3Mjc3OCwidXNlcklEIjoyfQ.4bFXS7zG5cNXEAjy6VLp8ZZXNeKU-BzIMPkb6DUj1SE
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlc3QyQGdtYWlsLmNvbSIsImV4cCI6MTczNzY3NDg0OCwidXNlcklEIjoyfQ.vQcbnjS0E5IuNpp0b4HA8AMv71gq1zNTPu86gXVM_Ds
 
 {
-    "name": "Wellness event",
-    "description": "This this the event by second user",
+    "name": "Wellness event 7",
+    "description": "woah",
     "location": "PTA",
     "dateTime": "2025-02-23T07:00:00.000Z"
 }

@@ -1,8 +1,9 @@
-PUT http://localhost:8080/events/1
+PUT http://localhost:8080/events/5
 Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlc3QyQGdtYWlsLmNvbSIsImV4cCI6MTczNzY3NDg0OCwidXNlcklEIjoyfQ.vQcbnjS0E5IuNpp0b4HA8AMv71gq1zNTPu86gXVM_Ds
 
 {
-    "name": "Updated Event 1",
+    "name": "Another wellness event",
     "description": "This this first event!!",
     "location": "PTA",
     "dateTime": "2025-02-23T07:00:00.000Z"
